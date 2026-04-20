@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=26&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
 <div align="center">
   <img height="299" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd2d3hqYWh5NTE3OWF5aWNoMDc5NWwwYXVhNmE2NGU3ZTB3Y3Y0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 </div>
@@ -31,6 +37,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TobiasIllnerDev/TobiasIllnerDev/output/snake.svg" alt="Snake animation" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=26&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
