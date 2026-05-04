@@ -17,12 +17,9 @@ Hi there 👋<br><br>I'm a passionate developer from Germany 🇩🇪 who recent
 ![](https://github-profile-trophy.vercel.app/?username=TobiasIllnerDev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=TobiasIllnerDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=TobiasIllnerDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
