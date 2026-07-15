@@ -1,24 +1,27 @@
 # Hi, I'm Tobias 👋
 
-I'm an application developer from Germany 🇩🇪 with a passion for building modern, interactive, and user-friendly software.
+I'm an application developer from Germany 🇩🇪 with a passion for building modern, interactive and user-friendly software.
 
 After completing vocational retraining as an **Application Developer**, I am currently expanding my knowledge through further education in **Full-Stack Development**.
 
-My main interests include:
+I enjoy turning ideas into practical applications, exploring new technologies and continuously improving my development skills. My main interests include modern web development, mobile applications and game development.
 
-- Developing modern web applications
-- Building interactive applications and games
-- Learning new technologies and frameworks
-- Writing clean, maintainable, and scalable code
+## About Me
 
-I am currently focusing on **JavaScript, TypeScript, Angular, Node.js, and modern frontend development**.
+- 🎓 Trained Application Developer
+- 🚀 Currently expanding my Full-Stack Development skills
+- 🌐 Interested in modern and responsive web applications
+- 📱 Exploring cross-platform mobile development
+- 🎮 Passionate about interactive applications and game development
+- 📚 Always learning new technologies and development practices
 
-## Connect with me
+## Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-i-27a517359/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pale_Mammoth1006/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TobiasIllner)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tobias.illner@hotmail.de)
+- Building component-based applications with Angular
+- Developing applications with JavaScript and TypeScript
+- Creating responsive interfaces with Bootstrap and SCSS
+- Working with Node.js, Firebase and relational databases
+- Improving software architecture and clean-code practices
 
 ## Tech Stack
 
@@ -32,10 +35,16 @@ I am currently focusing on **JavaScript, TypeScript, Angular, Node.js, and moder
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-### Backend and Databases
+### Backend and Programming Languages
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=FFDD54)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 ### Mobile and Game Development
@@ -44,18 +53,60 @@ I am currently focusing on **JavaScript, TypeScript, Angular, Node.js, and moder
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-### Tools
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+## What I Work With
+
+- **Frontend:** Responsive layouts, reusable components and modern user interfaces
+- **Backend:** Server-side applications, Firebase services and application logic
+- **Databases:** Relational databases using MySQL and MariaDB
+- **Mobile Development:** Cross-platform applications with Flutter and Dart
+- **Game Development:** Unity projects and game logic written in C#
+- **Development Workflow:** Version control with Git, debugging and clean-code principles
+
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=TobiasIllnerDev&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Tobias' GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TobiasIllnerDev&theme=radical&hide_border=true&layout=compact" alt="Most-used languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.shion.dev/api?username=TobiasIllnerDev&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
+    alt="Tobias' GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=TobiasIllnerDev&theme=radical&hide_border=true&layout=compact"
+    alt="Tobias' most-used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TobiasIllnerDev&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=TobiasIllnerDev&theme=radical&hide_border=true"
+    alt="Tobias' GitHub contribution streak"
+  />
 </p>
+
+> GitHub language statistics only show the languages used in my public repositories and do not represent my complete skill level.
+
+## Career Goal
+
+My goal is to continuously grow as a developer, contribute to real-world software projects and build reliable applications that provide a great user experience.
+
+I am particularly interested in opportunities involving frontend, full-stack, mobile or application development.
+
+## Languages
+
+- **German:** Native
+- **English:** Working proficiency
+
+## Connect With Me
+
+I'm always interested in exchanging ideas about software development, creative projects and new technologies.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-i-27a517359/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pale_Mammoth1006/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TobiasIllner)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tobias.illner@hotmail.de)
