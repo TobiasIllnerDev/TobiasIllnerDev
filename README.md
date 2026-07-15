@@ -27,7 +27,7 @@ Currently expanding my knowledge through further education in
 ## Tech Stack
 
 <div align="center">
-  
+
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -56,8 +56,13 @@ Currently expanding my knowledge through further education in
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-### Development Tools
+### Design and Development Tools
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -68,33 +73,45 @@ Currently expanding my knowledge through further education in
 - **Frontend:** Responsive layouts, reusable components and modern user interfaces
 - **Backend:** Server-side applications, Firebase services and application logic
 - **Databases:** Relational databases using MySQL and MariaDB
+- **UI/UX Design:** Creating layouts, prototypes and interface concepts with Figma
 - **Mobile Development:** Cross-platform applications with Flutter and Dart
 - **Game Development:** Unity projects and game logic written in C#
+- **Development Tools:** Working with VS Code, Visual Studio and PyCharm
 - **Development Workflow:** Version control with Git, debugging and clean-code principles
+- **File Transfer:** Managing file transfers with FileZilla
+
+<div align="center">
 
 ## GitHub Statistics
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.shion.dev/api?username=TobiasIllnerDev&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
-    alt="Tobias' GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=TobiasIllnerDev&theme=radical&hide_border=true&layout=compact"
-    alt="Tobias' most-used languages"
-  />
-</p>
+<br>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=TobiasIllnerDev&theme=radical&hide_border=true"
-    alt="Tobias' GitHub contribution streak"
-  />
-</p>
+<img
+  width="49%"
+  src="https://github-readme-stats.shion.dev/api?username=TobiasIllnerDev&theme=radical&hide_border=true&border_radius=12&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+  alt="Tobias' GitHub statistics"
+/>
+<img
+  width="49%"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=TobiasIllnerDev&theme=radical&hide_border=true&border_radius=12&layout=compact&langs_count=8"
+  alt="Tobias' most-used programming languages"
+/>
 
-> GitHub language statistics only show the languages used in my public repositories and do not represent my complete skill level.
+<br><br>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=TobiasIllnerDev&theme=radical&hide_border=true&border_radius=12"
+  alt="Tobias' GitHub contribution streak"
+/>
+
+<br><br>
+
+<sub>
+GitHub statistics are based on my public repositories and do not represent my complete technical experience.
+</sub>
+
+</div>
 
 ## Career Goal
 
@@ -110,6 +127,8 @@ I am particularly interested in opportunities involving frontend, full-stack, mo
 <div align="center">
 
 ## Connect With Me
+
+I'm always interested in exchanging ideas about software development, creative projects and new technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-i-27a517359/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pale_Mammoth1006/)
