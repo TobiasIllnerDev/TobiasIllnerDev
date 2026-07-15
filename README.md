@@ -1,18 +1,61 @@
-# 💫 About Me:
-Hi there 👋<br><br>I'm a passionate developer from Germany 🇩🇪 who recently completed a retraining program as an Application Developer 💻. Currently, I'm leveling up my skills by pursuing further education as a Full-Stack Developer 🚀.<br><br>I enjoy building creative projects, exploring new technologies, and constantly improving my coding skills. I’m especially interested in creating interactive applications, games 🎮, and user-friendly web experiences 🌐.<br><br>Always curious, always learning 📚 – and excited to grow as a developer every day! ✨
+# Hi, I'm Tobias 👋
 
+I'm an application developer from Germany 🇩🇪 with a passion for building modern, interactive, and user-friendly software.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/blue_shadow07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tobias-i-27a517359/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Pale_Mammoth1006/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/TobiasIllner) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tobias.illner@hotmail.de) 
+After completing vocational retraining as an **Application Developer**, I am currently expanding my knowledge through further education in **Full-Stack Development**.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=TobiasIllnerDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=TobiasIllnerDev&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TobiasIllnerDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+My main interests include:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- Developing modern web applications
+- Building interactive applications and games
+- Learning new technologies and frameworks
+- Writing clean, maintainable, and scalable code
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am currently focusing on **JavaScript, TypeScript, Angular, Node.js, and modern frontend development**.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-i-27a517359/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pale_Mammoth1006/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TobiasIllner)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tobias.illner@hotmail.de)
+
+## Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+### Backend and Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+### Mobile and Game Development
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=TobiasIllnerDev&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Tobias' GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TobiasIllnerDev&theme=radical&hide_border=true&layout=compact" alt="Most-used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TobiasIllnerDev&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+</p>
