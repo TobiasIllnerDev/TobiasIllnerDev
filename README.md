@@ -2,6 +2,8 @@
 
 # Hi, I'm Tobias 👋
 
+</div>
+
 ### Application Developer from Germany 🇩🇪
 
 I'm passionate about building modern, interactive and user-friendly software.
@@ -9,7 +11,7 @@ I'm passionate about building modern, interactive and user-friendly software.
 Currently expanding my knowledge through further education in  
 **Full-Stack Development**.
 
-</div>
+
 
 ## About Me
 
@@ -28,10 +30,10 @@ Currently expanding my knowledge through further education in
 - Working with Node.js, Firebase and relational databases
 - Improving software architecture and clean-code practices
 
-<div align="center">
-
 ## Tech Stack
 
+<div align="center">
+  
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
