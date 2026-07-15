@@ -1,10 +1,15 @@
+<div align="center">
+
 # Hi, I'm Tobias 👋
 
-I'm an application developer from Germany 🇩🇪 with a passion for building modern, interactive and user-friendly software.
+### Application Developer from Germany 🇩🇪
 
-After completing vocational retraining as an **Application Developer**, I am currently expanding my knowledge through further education in **Full-Stack Development**.
+I'm passionate about building modern, interactive and user-friendly software.
 
-I enjoy turning ideas into practical applications, exploring new technologies and continuously improving my development skills. My main interests include modern web development, mobile applications and game development.
+Currently expanding my knowledge through further education in  
+**Full-Stack Development**.
+
+</div>
 
 ## About Me
 
@@ -22,6 +27,8 @@ I enjoy turning ideas into practical applications, exploring new technologies an
 - Creating responsive interfaces with Bootstrap and SCSS
 - Working with Node.js, Firebase and relational databases
 - Improving software architecture and clean-code practices
+
+<div align="center">
 
 ## Tech Stack
 
@@ -57,6 +64,8 @@ I enjoy turning ideas into practical applications, exploring new technologies an
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+</div>
 
 ## What I Work With
 
@@ -102,11 +111,13 @@ I am particularly interested in opportunities involving frontend, full-stack, mo
 - **German:** Native
 - **English:** Working proficiency
 
-## Connect With Me
+<div align="center">
 
-I'm always interested in exchanging ideas about software development, creative projects and new technologies.
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-i-27a517359/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pale_Mammoth1006/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TobiasIllner)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tobias.illner@hotmail.de)
+
+</div>
