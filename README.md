@@ -1,8 +1,4 @@
-<div align="center">
-
 # Hi, I'm Tobias 👋
-
-</div>
 
 ### Application Developer from Germany 🇩🇪
 
@@ -10,8 +6,6 @@ I'm passionate about building modern, interactive and user-friendly software.
 
 Currently expanding my knowledge through further education in  
 **Full-Stack Development**.
-
-
 
 ## About Me
 
