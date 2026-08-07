@@ -131,8 +131,6 @@ I am particularly interested in opportunities involving frontend, full-stack, mo
 I'm always interested in exchanging ideas about software development, creative projects and new technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-i-27a517359/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pale_Mammoth1006/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TobiasIllner)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tobias.illner@hotmail.de)
 
 </div>
