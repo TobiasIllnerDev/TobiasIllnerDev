@@ -78,23 +78,17 @@ A 3D stealth game built with **Unity and C#**, featuring enemy AI, exploration a
 
 [Play Online](https://haunted-house.tobias-illner.de/) · [Repository](https://github.com/TobiasIllnerDev/Haunted-House)
 
-### 📸 Instagram Clone
+### 📸 Join-Kanban
 
-An Instagram-inspired frontend application built with **Angular, TypeScript and SCSS**, featuring posts, likes and comments.
+Join is a responsive Kanban task management application that helps users organize, assign, and track work through an intuitive drag-and-drop board. It was built as a collaborative team project during the Fullstack/AI Software Developer program at Developer Akademie.
 
-[Repository](https://github.com/TobiasIllnerDev/Instagram-clone)
+[Live Demo]([https://pokedex.tobias-illner.de/](https://join-kanban.tobias-illner.de/)) [Repository](https://github.com/kamycoding/join-kanban)
 
 ### 🔴 Pokédex
 
 A responsive Pokédex built with **JavaScript and the PokéAPI**, featuring search, detailed Pokémon information and evolution chains.
 
 [Live Demo](https://pokedex.tobias-illner.de/) · [Repository](https://github.com/TobiasIllnerDev/pokedex)
-
-### ✈️ Travel Blog
-
-A responsive travel blog developed collaboratively as an early **team project**, focusing on responsive frontend development.
-
-[Repository](https://github.com/TobiasIllnerDev/Blog-Projekt)
 
 <div align="center">
 
