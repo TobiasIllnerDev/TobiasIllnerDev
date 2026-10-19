@@ -82,7 +82,7 @@ A 3D stealth game built with **Unity and C#**, featuring enemy AI, exploration a
 
 Join is a responsive Kanban task management application that helps users organize, assign, and track work through an intuitive drag-and-drop board. It was built as a collaborative team project during the Fullstack/AI Software Developer program at Developer Akademie.
 
-[Live Demo]([https://join-kanban.tobias-illner.de/]) [Repository](https://github.com/kamycoding/join-kanban)
+[Live Demo](https://join-kanban.tobias-illner.de/) · [Repository](https://github.com/kamycoding/join-kanban)
 
 ### 🔴 Pokédex
 
